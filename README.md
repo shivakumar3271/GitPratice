@@ -1,0 +1,2 @@
+# GitPratice
+create new repository
